@@ -5,11 +5,11 @@ How to setup a flutter project to facilitate the different stages of mobile app 
 ## Screenshots
 
 ### Development
-![alt text](https://github.com/iamkishanme/flutterprojectsetup/blob/master/screenshots/development.png =250x "Development")
+<img src="/screenshots/development.png" width="100">
 
 ### Beta
-![alt text](https://github.com/iamkishanme/flutterprojectsetup/blob/master/screenshots/beta.png =250x "Beta")
+![alt text](https://github.com/iamkishanme/flutterprojectsetup/blob/master/screenshots/beta.png "Beta")
 
 ### Production
-![alt text](https://github.com/iamkishanme/flutterprojectsetup/blob/master/screenshots/production.png =250x "Beta")
+![alt text](https://github.com/iamkishanme/flutterprojectsetup/blob/master/screenshots/production.png "Production")
 
