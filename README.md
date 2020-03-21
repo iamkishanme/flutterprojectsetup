@@ -5,7 +5,7 @@ How to setup a flutter project to facilitate the different stages of mobile app 
 ## Screenshots
 
 ### Development
-<img src="/screenshots/development.png" width="300">
+<img src="/screenshots/development.png" width="300"> <img src="/screenshots/beta.png" width="300"> <img src="/screenshots/production.png" width="300">
 
 ### Beta
 <img src="/screenshots/beta.png" width="300">
